@@ -1,0 +1,17 @@
+.idea
+out
+target
+logs
+**/application.yaml
+META-INF
+*.iws
+*.iml
+*.ipr
+*.properties
+*.mp4
+*.gif
+/content/
+*.MP4
+.idea/
+*.jpeg
+*.pem
